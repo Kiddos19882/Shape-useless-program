@@ -5,7 +5,6 @@ public class Shape {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите число: ");
         int n = in.nextInt();
-        int r;
         int i, j, k;
         int y = n;
         int l = 0;
